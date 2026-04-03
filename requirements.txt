@@ -1,1 +1,2 @@
-reflex
+taipy
+taipy-gui
